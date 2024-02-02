@@ -1,0 +1,7 @@
+Name = "RecentItemsDisplay"
+Description = "Displays items recently acquired through ItemChanger"
+Dependencies = ["ItemChanger"]
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.RecentItemsDisplay/releases/download/v1.0/RecentItemsDisplay.zip"
+SHA256 = "e6f1c3dc04578ebc53012a5c0d3745dbfa4f7634d0ca7542ccc19531502d83ef"
+Repository = "https://github.com/dpinela/DeathsDoor.RecentItemsDisplay"

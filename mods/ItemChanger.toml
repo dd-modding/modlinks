@@ -1,0 +1,7 @@
+Name = "ItemChanger"
+Description = "Replaces item pickups with other items"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.ItemChanger/releases/download/v1.1/ItemChanger.zip"
+SHA256 = "77a8dc13cbbff2181a623747b987736fa945b684be436b9f1c8ec23a804fb525"
+Repository = "https://github.com/dpinela/DeathsDoor.ItemChanger/"

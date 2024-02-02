@@ -1,0 +1,7 @@
+Name = "Plando"
+Description = "Allows you to play planned randomizers, AKA plandos"
+Dependencies = ["AlternativeGameModes", "ItemChanger"]
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.Plando/releases/download/v1.0/Plando.zip"
+SHA256 = "44b05f5cf0d0933134710dfe3cc050cd317b7b29687a3e868dc2421085a0903c"
+Repository = "https://github.com/dpinela/DeathsDoor.Plando/"

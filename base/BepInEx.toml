@@ -1,0 +1,7 @@
+Name = "BepInEx"
+Description = "Modding framework for Unity Mono"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip"
+SHA256 = "4c149960673f0a387ba7c016c837096ab3a41309d9140f88590bb507c59eda3f"
+repository = "https://github.com/BepInEx/BepInEx"

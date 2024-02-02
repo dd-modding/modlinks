@@ -1,0 +1,7 @@
+Name = "MagicUI"
+Description = "A library for creating in-game, non-menu UIs"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.MagicUI/releases/download/v1.8.8785.35380/MagicUI.zip"
+SHA256 = "70e516c488a974be8c92daaa07d587dffa0be3b96cfe3b92f237172bdb48c34b"
+Repository = "https://github.com/dpinela/DeathsDoor.MagicUI"

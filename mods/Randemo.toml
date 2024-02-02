@@ -1,0 +1,7 @@
+Name = "Randemo"
+Description = "A plando that served as a demo for the randomizer"
+Dependencies = ["Plando"]
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.Plando/releases/download/v1.0/Randemo.ddplando"
+SHA256 = "cfae2f00ece08b8956085e8454245a1a6f5ec258eee7737e6d9a2596494d2b82"
+Repository = "https://github.com/dpinela/DeathsDoor.Plando"

@@ -1,0 +1,7 @@
+Name = "AlternativeGameModes"
+Description = "Adds game modes that can be selected in the main menu"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.AlternativeGameModes/releases/download/v1.0/AlternativeGameModes.zip"
+SHA256 = "4986dfd0422bab041f8b38fa4faa843053820f4d92e94c37ae6630708b58098b"
+Repository = "https://github.com/dpinela/DeathsDoor.AlternativeGameModes/"
