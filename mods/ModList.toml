@@ -1,0 +1,7 @@
+Name = "ModList"
+Description = "Shows a list of installed mods on the title screen"
+Dependencies = ["MagicUI"]
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.ModList/releases/download/v1.0/ModList.zip"
+SHA256 = "fbf6f572950ab296f315031bb4cca30ade89957c35fcb3191bb0706eab8b0299"
+Repository = "https://github.com/dpinela/DeathsDoor.ModList"
