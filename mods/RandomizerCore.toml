@@ -1,0 +1,7 @@
+Name = "RandomizerCore"
+Description = "A library for randomization algorithms"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/homothetyhk/RandomizerCore/releases/download/v2.0.2/RandomizerCore.zip"
+SHA256 = "b9e19b4cb59b88f64a3284e823576db181864bff2f11d8357f6ce21bdcbaf67a"
+Repository = "https://github.com/homothetyhk/RandomizerCore"
