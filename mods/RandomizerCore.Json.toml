@@ -5,5 +5,5 @@ Description = "A library to serialize RC data structures"
 Dependencies = ["RandomizerCore", "ItemChanger"]
 Integrations = []
 Link = "https://github.com/homothetyhk/RandomizerCore.Json/releases/download/v1.0.1/RandomizerCore.Json.zip"
-SHA256 = "d3a56d61627c96cc79c25382bb97f5ef688df1981c569fc0d1ca3a381bb013a9"
+SHA256 = "3821dc60fa1c8d53e4af3d2cb86b1615f169e5112b8656e7a1f9fcc5a0c7a1e5"
 Repository = "https://github.com/homothetyhk/RandomizerCore.Json"
