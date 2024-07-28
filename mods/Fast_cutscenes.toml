@@ -1,0 +1,7 @@
+Name = "Fast_Cutscenes"
+Description = "Death's Door Plugin to speed up or skip a lot of cutscenes"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/SpR3AD1/Fast_cutscenes/releases/download/1.0.5/Fast_cutscenes.zip"
+SHA256 = "9cd8943c42ab95c3fc9e8c2d72afe00d2bd67dd8c0957d3969ac3c538cb7250f"
+Repository = "https://github.com/SpR3AD1/Fast_cutscenes"
