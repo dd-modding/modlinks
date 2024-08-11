@@ -1,0 +1,7 @@
+Name = "DieInstantly"
+Description = "Adds a 'Die Instantly' option to the pause menu"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/dpinela/DeathsDoor.DieInstantly/releases/download/v1.0/DieInstantly.zip"
+SHA256 = "75b011282333286e68c8902eaa89f1f4d63de47165f5c9fde988224ebc1c6143"
+Repository = "https://github.com/dpinela/DeathsDoor.DieInstantly"
