@@ -1,0 +1,7 @@
+Name = "MultiWorldLib"
+Description = "A library for ItemSync and MultiWorld network transmission."
+Dependencies = []
+Integrations = []
+Link = "https://github.com/Shadudev/HollowKnight.MultiWorld/releases/download/common-files-is263-mw122/MultiWorldLib.zip"
+SHA256 = "cc1b628f51a277e2d3638d08f4cfea3e4f42c757b6b7e93963061af36e95d4db"
+Repository = "https://github.com/Shadudev/HollowKnight.MultiWorld"

@@ -1,7 +1,7 @@
 Name = "Randomizer"
 Description = "Item randomizer game mode"
-Dependencies = ["AlternativeGameModes", "ItemChanger", "RandomizerCore", "RandomizerCore.Json"]
+Dependencies = ["AlternativeGameModes", "ItemChanger", "RandomizerCore", "RandomizerCore.Json", "MultiWorldLib"]
 Integrations = []
-Link = "https://github.com/dpinela/DeathsDoor.Randomizer/releases/download/v1.3.1/Randomizer.zip"
-SHA256 = "0fefec2cc52b7993e4aa06ae6d6644c595f62d10576db803fde321ab5cec4451"
+Link = "https://github.com/dpinela/DeathsDoor.Randomizer/releases/download/v1.4/Randomizer.zip"
+SHA256 = "cfe98302acdfadacc391302a9abdc40855a412e3072542d0f14b75fb01092069"
 Repository = "https://github.com/dpinela/DeathsDoor.Randomizer/"
