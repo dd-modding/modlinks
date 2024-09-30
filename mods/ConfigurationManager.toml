@@ -1,0 +1,7 @@
+Name = "ConfigurationManager"
+Description = "GUI for configuring BepInEx plugin (mod) settings"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/download/v18.3/BepInEx.ConfigurationManager.BepInEx5_v18.3.zip"
+SHA256 = "1159e92d27b6989ce08894444b43915ef46bab32661b9adf3c03ffda02f08880"
+Repository = "https://github.com/BepInEx/BepInEx.ConfigurationManager"
