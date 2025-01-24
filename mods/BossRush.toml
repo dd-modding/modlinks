@@ -1,0 +1,7 @@
+Name = "BossRush"
+Description = "Adds a boss rush game mode"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/wijo2/BossRush/releases/download/v0.7/BossRush.4.8.dll"
+SHA256 = "a1bd3ca102bd2bd135580cc9f9b49b2c85bed44e7c4478c70dda9a0aae544fae"
+Repository = "https://github.com/wijo2/BossRush"
