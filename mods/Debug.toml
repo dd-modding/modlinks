@@ -1,0 +1,7 @@
+Name = "Debug"
+Description = "Mod to help find glitches and practice speedruns"
+Dependencies = []
+Integrations = []
+Link = "https://github.com/PrestonRooker/DDoorDebugMod/releases/download/v0.3.6/debug_mod.zip"
+SHA256 = "374a7d2895de417c6d66efc45298bc76804a59bec9bce3425d783986cdefc898"
+Repository = "https://github.com/PrestonRooker/DDoorDebugMod"
